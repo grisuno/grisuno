@@ -1,5 +1,5 @@
-# mist.htb
-mist.htb insane windows machine, Writeup complete, coming soon ;) 
+# grisun0
+is come back
 
 hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
@@ -8,8 +8,7 @@ hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
 
-![mist](https://github.com/user-attachments/assets/00b3c965-95c9-470b-b50e-156054092d03)
-
+![grisUN0](https://github.com/user-attachments/assets/5437120e-7ddc-45e3-9fd6-0163351c3fb2)
 
 clone the repo:
 ```bash
