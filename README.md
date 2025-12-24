@@ -19,7 +19,7 @@ chmod +x install.sh
 ./fast_run_as_r00t.sh
 ```
 # 💫 About Me:
-✒️ Writing LazyOwn & Black Basalt Beacon<br>🛡️ Deveop LazyOwnBT<br>☣️ Testing Malware 🧫<br>🔎 I+D OFSEC<br>🐧 Kernel Driver Developer
+✒️ Writing LazyOwn & Black Basalt Beacon<br>🛡️ Deveop LazyOwnBT<br>☣️ Testing Malware 🧫<br>🔎 I+D OFSEC<br>🐧 Kernel Driver Developer <br>🧠 Bio Inpired model trainer <br>⚛ Quantum Researcher.
 
 
 ## 🌐 Socials:
