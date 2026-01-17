@@ -18,8 +18,11 @@ chmod +x install.sh
 ./install.sh
 ./fast_run_as_r00t.sh
 ```
-# 💫 About Me:
-✒️ Writing LazyOwn & Black Basalt Beacon<br>🛡️ Deveop LazyOwnBT<br>☣️ Testing Malware 🧫<br>🔎 I+D OFSEC<br>🐧 Kernel Driver Developer <br>🧠 Bio Inspired model trainer <br>⚛ Quantum Researcher.
+# 💫 About Me: 
+- I am a security researcher who secures algorithms against decoherence
+- The biggest threat isn’t adversarial attacks, it’s the $10B compute budget that trains models in the wrong phase space.
+  
+✒️ Writing LazyOwn & Black Basalt Beacon<br>🛡️ Deveop LazyOwnBT<br>☣️ Testing Malware 🧫<br>🔎 I+D OFSEC<br>🐧 Kernel Driver Developer <br>🧠 Bio Inspired model trainer <br>⚛ Quantum Researcher<br>🌈⃤ Physics inspired model trainer.
 
 
 ## 🌐 Socials:
