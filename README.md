@@ -147,6 +147,14 @@ chmod +x install.sh
   
 ✒️ Writing LazyOwn & Black Basalt Beacon<br>🛡️ Deveop LazyOwnBT<br>☣️ Testing Malware 🧫<br>🔎 I+D OFSEC<br>🐧 Kernel Driver Developer <br>🧠 Bio Inspired model trainer <br>⚛ Quantum Researcher<br>🌈⃤ Physics inspired model trainer.
 
+## ✍️ Also
+
+📖 **Books:**
+- [Dimittisnomicon](https://www.amazon.com/dp/B0BTN5H379) — "Deja ir mi nombre, más allá de la liberación"
+- [A Unified Theory of Hypercomplex Systems](https://doi.org/10.5281/zenodo.20778397) — condensed matter ML
+
+🎵 **Music:** [Gris Iscomeback](https://www.amazon.com/s?k=Gris+Iscomeback) — 7 albums on Amazon Music / Shazam
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/V3usU8yH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lazyown) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lazyown.redteam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lazyown) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCh56TRcWhk6EH38eGiXtISA) 
