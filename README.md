@@ -1,6 +1,6 @@
 # grisun0
 is come back: I am a security researcher who secures algorithms against decoherence
-
+> 🇨🇱 Top 18 GitHub committers in Chile · 📖 Author of "A Unified Theory of Hypercomplex Systems" ([DOI](https://doi.org/10.5281/zenodo.20778397)) · 7K+ downloads
 hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![image](https://github.com/user-attachments/assets/1b5049b8-3aad-40d1-89eb-642941ff13a1)
