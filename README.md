@@ -11,6 +11,128 @@ hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
 ![grisUN0](https://github.com/user-attachments/assets/5437120e-7ddc-45e3-9fd6-0163351c3fb2)
 
+
+> Security researcher who secures algorithms against decoherence.
+> The biggest threat isn't adversarial attacks — it's the $10B compute budget that trains models in the wrong phase space.
+
+I work at the intersection of **offensive security**, **post-quantum cryptography**, and **physics-inspired machine learning**. My research treats neural network training as a condensed matter phenomenon — where grokking is a phase transition, not just loss minimization.
+
+📖 **Book:** [A Unified Theory of Hypercomplex Systems](https://doi.org/10.5281/zenodo.20778397) — 11 chapters, 245 trajectories, 5 physical systems under one phase diagram.
+
+---
+
+## 🔬 Research — ML as Condensed Matter
+
+| Project | Description | Chapter | Links |
+|---|---|---|---|
+| [strass_strassen](https://github.com/grisuno/strass_strassen) | Algorithmic crystallization: κ=1 separates crystal from glass (AUC=1.000, 60 runs). 7K downloads. | Ch 1 | [DOI](https://doi.org/10.5281/zenodo.18072858) |
+| [dirac](https://github.com/grisuno/dirac) | Dirac equation as polycrystal — discretization margin, Berry phase | Ch 7 | [DOI](https://doi.org/10.5281/zenodo.18407920) |
+| [supertopo3](https://github.com/grisuno/supertopo3) | Cyclotron orbits, ℏ_eff=0.012, topological structure | Ch 3 | — |
+| [schrodinger](https://github.com/grisuno/schrodinger) | Schrödinger evolution as supercooled polycrystal | Ch 6 | — |
+| [Willmore](https://github.com/grisuno/Willmore) | Willmore energy / RBC as functional glass | Ch 9 | — |
+| [TopoGPT3](https://github.com/grisuno/TopoGPT3) | Spectral universality in transformers | Ch 10 | [DOI](https://doi.org/10.5281/zenodo.20388757) |
+| [TopoGPT2](https://github.com/grisuno/TopoGPT2) | Complex-valued GPT with topological regularization | Ch 10 | — |
+| [liber-monitor](https://github.com/grisuno/liber-monitor) | Real-time δ/κ/T_eff monitoring during training | Tooling | — |
+| [Neurothermo](https://github.com/grisuno/Neurothermo) | Production thermodynamic diagnostics for NN training | Tooling | — |
+| [QC](https://github.com/grisuno/QC) | Q²C quantum simulator — classical simulation of quantum evolution | Extension | — |
+| [HPU-Core](https://github.com/grisuno/HPU-Core) | Hypercomplex Processing Unit protocol | Extension | [DOI](https://doi.org/10.5281/zenodo.18407920) |
+| [toposwarm](https://github.com/grisuno/toposwarm) | LazyOwn AI — topological swarm intelligence | Extension | — |
+
+**Key finding:** κ=1 (condition number of gradient covariance) is an order parameter for grokking. Same (δ, κ, T_eff) vocabulary across Strassen, Hamiltonian, Schrödinger, Dirac, and Willmore systems.
+
+---
+
+## 🛡️ Security — LazyOwn C2 Framework
+
+| Project | Role | Stars \| Clones |
+|---|---|---|
+| [LazyOwn](https://github.com/grisuno/LazyOwn) | Framework hub — install, modules, operations | 213 ⭐ \| 518 |
+| [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | C2 server core | 9 ⭐ |
+| [BlackBasaltBeacon](https://github.com/grisuno/blacksandbeacon) | Linux beacon (C) | 12 ⭐ |
+| [BlackSerpentine](https://github.com/grisuno/BlackSerpentine) | Python nano-implant | 4 ⭐ |
+| [BlackZincBeacon](https://github.com/grisuno/BlackZincBeacon) | ARM/Android beacon | 1 ⭐ |
+| [ShadowLink](https://github.com/grisuno/ShadowLink) | Fileless delivery via DNS TXT | 7 ⭐ |
+| [cgoblin](https://github.com/grisuno/cgoblin) | Go cross-platform loader | 4 ⭐ |
+| [keylogger](https://github.com/grisuno/keylogger) | Linux evdev keylogger | 2 ⭐ \| 88 |
+| [amsi](https://github.com/grisuno/amsi) | AMSI bypass techniques | 8 ⭐ |
+| [CVE-2022-22077](https://github.com/grisuno/CVE-2022-22077) | RTCore64 LPE exploit | 5 ⭐ \| 24 |
+
+**Full ecosystem:** 20+ repos covering C2, beacons (Windows/Linux/ARM), delivery, persistence, evasion, and exploits. See [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) for architecture diagram.
+
+---
+
+## 🌐 Privacy & Post-Quantum Infrastructure
+
+| Project | Description | Clones (14d) |
+|---|---|---|
+| [FreeDom](https://github.com/grisuno/FreeDom) | Post-quantum web browser — C-hardened sandbox, Kyber768/Dilithium3 | **1,453** |
+| [QuantumVault](https://github.com/grisuno/QuantumVault) | Post-quantum encrypted vault | 74 |
+| [gopher2](https://github.com/grisuno/gopher2) | Alternative protocol — Gopher reborn | 17 |
+
+FreeDom is my most cloned project (40% of all traffic). Security-first browser with post-quantum TLS, custom rendering engine, and memory-safe C sandbox.
+
+---
+
+## 🔍 OSINT & Fraud Detection
+
+| Project | Description | Stars \| Clones |
+|---|---|---|
+| [estorides](https://github.com/grisuno/estorides) | OSINT framework — 15+ modules, modular architecture | 63 ⭐ \| 202 |
+| [ElOjoDeRicci](https://github.com/grisuno/ElOjoDeRicci) | RESMA v1 — GNN with E8 lattice + Ricci flow for fraud detection | 1 ⭐ |
+| [lie-detector](https://github.com/grisuno/lie-detector) | RESMA v2 — honest science on fraud detection limits | 2 ⭐ |
+| [SWAN-Phoenix-Rising](https://github.com/grisuno/Swan-Phoenix-Rising) | Sparse autoencoder for anomaly detection | 2 ⭐ |
+
+---
+
+## 🐧 Embedded & Kernel
+
+| Project | Description |
+|---|---|
+| [VSL-DSP](https://github.com/grisuno/VSL-DSP) | Linux kernel driver for DSP hardware |
+| [malic](https://github.com/grisuno/malic) | Reverse engineering of Mali GPU driver (mali.ko) |
+| [project-nomad](https://github.com/grisuno/project-nomad) | Offline-first server architecture |
+
+---
+
+## 📌 Pinned Repos
+
+> The 6 repos below are pinned on my profile. The tables above are the full map.
+
+`FreeDom` · `LazyOwn` · `estorides` · `strass_strassen` · `TopoGPT3` · `QuantumVault`
+
+---
+
+## 🌐 Socials
+
+[![Discord](https://p.kagi.com/proxy/Discord-%237289DA.svg?c=EgGQfWtq44GRXgvj3b8hBRxPS1jY7cJLKReIaXGSipSEXWiA0nwn3mMKJQMfwLCDpfsoXeb1aLNIcCJ8ZfI-eEF6KEKxxTLg-GKdZ8KRyv_0DIpZjNYkoefQS7ZhNXzi)](https://discord.gg/V3usU8yH)
+[![LinkedIn](https://p.kagi.com/proxy/LinkedIn-%230077B5.svg?c=EgGQfWtq44GRXgvj3b8hBddhUvfjMEIFuf2ZlAVxxy4JxsWASG9VussW-ehoIpVjUK1PFnkoN7ef4bejYzdfdspp9yZpDkYiiU0GYfjU6pr87D1nWChO82xmQ0h4hQjJuqrXLfvl-flNkRMcIXhMcA%3D%3D)](https://linkedin.com/in/lazyown)
+[![Medium](https://p.kagi.com/proxy/Medium-12100E?c=EgGQfWtq44GRXgvj3b8hBbnxOVIxBPlvGZPtKpVR6T74AfAJnlbh7g3vl3oXD7p2u23dJPstlIg49rI39Ky7yfDuVykZk6BlTsHZzGNHghXOZZLvmPzcNCg9-g5oYsvM)](https://medium.com/@lazyown.redteam)
+[![X](https://p.kagi.com/proxy/X-black.svg?c=EgGQfWtq44GRXgvj3b8hBST2chX5CQ51O5c4766soe7YeuuvGO-r9AET1GXfjQAb6UpWliJPKSOc5V38FZZ2ILkH-7a5yjegL3zVivz9Dbo%3D)](https://x.com/lazyown)
+[![YouTube](https://p.kagi.com/proxy/YouTube-%23FF0000.svg?c=EgGQfWtq44GRXgvj3b8hBdiE45V644_9MktayniWv9JhnxosLqo3cXhYhU1sZj9X0o6gmv1e_qUwI_gXSAdrwoKlHhtV9fnQoeZCOnAL406oahaDrxuyeyVKU7Ya2sJa)](https://youtube.com/@UCh56TRcWhk6EH38eGiXtISA)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=grisuno&theme=dark&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=grisuno&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=grisuno&theme=dark&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=grisuno&theme=radical&no-bg=true&margin-w=4)
+
+---
+
+## 💰 Support
+
+[![Patreon](https://p.kagi.com/proxy/Patreon-F96854?c=EgGQfWtq44GRXgvj3b8hBZmP_9qAblqRuZWDeHGED1s6447DozHxBaNwzGkMb1U_zLn97OCeCAImFX2HsE_ApbpN6qxfiNSgSVy8JAR8BBFWucNxMV3Z5eJJMTiyvu_ViOWcz18cuc9lErG6Hr222g%3D%3D)](https://patreon.com/LazyOwn)
+[![Ko-fi](https://p.kagi.com/proxy/Ko--fi-F16061?c=EgGQfWtq44GRXgvj3b8hBUoW0AyNuU0a2A749HVXLFQWF_VbBXsB1lUJTyYpT8fmAG0J591A7phlE2s60gLQrbU5iIAfm-N3vRoRSko8CfBsvgJ-vPSjwg6iZ_rp_QnOK3kLsaeKT6d-vbPLJzmaCw%3D%3D)](https://ko-fi.com/grisuno)
+
+[![ko-fi](https://p.kagi.com/proxy/githubbutton_sm.svg?c=P0HkpZ1Gg4BzpTe5S5Aw1zoqMMrPTgp202FiVvO-JB-YlphNB__CctFEXo2g59q5Gs4WFOI74-cwwHTnr98_bA%3D%3D)](https://ko-fi.com/Y8Y2Z73AV)
+
+---
+
+⚔️ [HackTheBox](https://app.hackthebox.com/teams/overview/6429) · 🇨🇱 Chile
+
 clone the repo:
 ```bash
 git clone https://github.com/grisuno/LazyOwn.git
