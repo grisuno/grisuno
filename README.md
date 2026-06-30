@@ -1,4 +1,7 @@
 # grisun0
+
+<img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/cf186709-2b1d-4d22-9022-d3e7931fca4e" />
+
 is come back: I am a security researcher who secures algorithms against decoherence
 > 🇨🇱 Top 18 GitHub committers in Chile · 📖 Author of "A Unified Theory of Hypercomplex Systems" ([DOI](https://doi.org/10.5281/zenodo.20778397)) · 7K+ downloads
 hackTheBox: https://app.hackthebox.com/teams/overview/6429
