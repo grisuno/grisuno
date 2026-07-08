@@ -3,7 +3,7 @@
 <img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/cf186709-2b1d-4d22-9022-d3e7931fca4e" />
 
 is come back: I am a security researcher who secures algorithms against decoherence
-> 🇨🇱 Top 18 GitHub committers in Chile · 📖 Author of "A Unified Theory of Hypercomplex Systems" ([DOI](https://doi.org/10.5281/zenodo.20778397)) · 7K+ downloads
+> 🇨🇱 Top 18 GitHub committers in Chile · 📖 Author of "A Unified Theory of Hypercomplex Systems" ([DOI](https://doi.org/10.5281/zenodo.20778397)) · [12K+ downloads](https://zenodo.org/records/20778424)
 hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![image](https://github.com/user-attachments/assets/1b5049b8-3aad-40d1-89eb-642941ff13a1)
