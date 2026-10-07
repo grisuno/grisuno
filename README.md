@@ -3,7 +3,7 @@
 <img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/cf186709-2b1d-4d22-9022-d3e7931fca4e" />
 
 is come back: I am a security researcher who secures algorithms against decoherence
-> 🇨🇱 Top 18 GitHub committers in Chile · 📖 Author of "A Unified Theory of Hypercomplex Systems" ([DOI](https://doi.org/10.5281/zenodo.20778397)) · [12K+ downloads](https://zenodo.org/records/20778424)
+> 🇨🇱 Top 12 GitHub committers in Chile · 📖 Author of "A Unified Theory of Hypercomplex Systems" ([DOI](https://doi.org/10.5281/zenodo.20778397)) · [18K+ downloads](https://zenodo.org/records/20778424)
 hackTheBox: https://app.hackthebox.com/teams/overview/6429
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![image](https://github.com/user-attachments/assets/1b5049b8-3aad-40d1-89eb-642941ff13a1)
@@ -49,9 +49,9 @@ I work at the intersection of **offensive security**, **post-quantum cryptograph
 
 | Project | Role | Stars \| Clones |
 |---|---|---|
-| [LazyOwn](https://github.com/grisuno/LazyOwn) | Framework hub — install, modules, operations | 213 ⭐ \| 518 |
-| [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | C2 server core | 9 ⭐ |
-| [BlackBasaltBeacon](https://github.com/grisuno/blacksandbeacon) | Linux beacon (C) | 12 ⭐ |
+| [LazyOwn](https://github.com/grisuno/LazyOwn) | Framework hub — install, modules, operations | 290 ⭐ \| 1518 |
+| [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) | C2 server core | 11 ⭐ |
+| [BlackBasaltBeacon](https://github.com/grisuno/blacksandbeacon) | Linux beacon (C) | 15 ⭐ |
 | [BlackSerpentine](https://github.com/grisuno/BlackSerpentine) | Python nano-implant | 4 ⭐ |
 | [BlackZincBeacon](https://github.com/grisuno/BlackZincBeacon) | ARM/Android beacon | 1 ⭐ |
 | [ShadowLink](https://github.com/grisuno/ShadowLink) | Fileless delivery via DNS TXT | 7 ⭐ |
@@ -59,6 +59,7 @@ I work at the intersection of **offensive security**, **post-quantum cryptograph
 | [keylogger](https://github.com/grisuno/keylogger) | Linux evdev keylogger | 2 ⭐ \| 88 |
 | [amsi](https://github.com/grisuno/amsi) | AMSI bypass techniques | 8 ⭐ |
 | [CVE-2022-22077](https://github.com/grisuno/CVE-2022-22077) | RTCore64 LPE exploit | 5 ⭐ \| 24 |
+
 
 **Full ecosystem:** 20+ repos covering C2, beacons (Windows/Linux/ARM), delivery, persistence, evasion, and exploits. See [BlackObsidianC2](https://github.com/grisuno/BlackObsidianC2) for architecture diagram.
 
@@ -94,7 +95,7 @@ FreeDom is my most cloned project (40% of all traffic). Security-first browser w
 | [VSL-DSP](https://github.com/grisuno/VSL-DSP) | Linux kernel driver for DSP hardware |
 | [malic](https://github.com/grisuno/malic) | Reverse engineering of Mali GPU driver (mali.ko) |
 | [project-nomad](https://github.com/grisuno/project-nomad) | Offline-first server architecture |
-
+| [MiniOS](https://github.com/grisuno/miniOS) | MiniOS MicroKernel run DOOM and more |
 ---
 
 ## 📌 Pinned Repos
